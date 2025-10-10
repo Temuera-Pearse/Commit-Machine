@@ -1,0 +1,117 @@
+name: Commit Machine (NZ Business Hours)
+
+on:
+  schedule:
+    # Run every 10 minutes across 20:00–07:59 UTC, which covers 09:00–19:59 NZ time
+    # year-round (handles NZDT/NZST). The Python code already enforces 09:00–19:00 NZ.
+    - cron: '*/10 20-23 * * 0-4' # Sun–Thu 20:00–23:59 UTC
+    - cron: '*/10 0-7 * * 1-5' # Mon–Fri 00:00–07:59 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  commit-machine:
+    runs-on: ubuntu-latest
+    env:
+      # Tune these:
+      MIN_COMMITS_PER_DAY: '3'
+      MAX_COMMITS_PER_DAY: '12'
+      NZ_TZ: 'Pacific/Auckland'
+      TARGET_BRANCH: 'main'
+      FILE_PATH: 'logs/heartbeat.md'
+      MESSAGES: |
+        polishing edges
+        jotting ideas
+        tiny refactor note
+        test hook
+        chore: housekeeping
+        docs: note to future me
+        ci: scheduled nibble
+        meta: planning next steps
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Decide and maybe commit
+        env:
+          GITHUB_ACTOR: ${{ github.actor }}
+          REPO_NAME: ${{ github.repository }}
+        run: |
+          python - << 'PY'
+          import os, random, subprocess, datetime, zoneinfo, pathlib
+
+          tz = os.environ.get("NZ_TZ", "Pacific/Auckland")
+          now = datetime.datetime.now(zoneinfo.ZoneInfo(tz))
+          weekday = now.weekday()  # 0=Mon ... 6=Sun
+
+          # Only Mon–Fri safeguard (cron already does this but double-check)
+          if weekday >= 5:
+              print("Weekend. Skipping.")
+              raise SystemExit(0)
+
+          # Heuristic: spread MIN..MAX commits over the day in 10-min slots
+          min_c = int(os.environ.get("MIN_COMMITS_PER_DAY", "3"))
+          max_c = int(os.environ.get("MAX_COMMITS_PER_DAY", "12"))
+          target = random.randint(min_c, max_c)
+
+          # NZ business day window (09:00–17:00 local)
+          start = now.replace(hour=9, minute=0, second=0, microsecond=0)
+          end   = now.replace(hour=17, minute=0, second=0, microsecond=0)
+
+          # Enforce exact hours regardless of DST-aware cron coverage
+          if not (start <= now < end):
+              print("Outside 09:00–17:00 local. Skipping.")
+              raise SystemExit(0)
+
+          # number of 10-minute slots in the window
+          total_slots = int((end - start).total_seconds() // (10*60))
+          if total_slots <= 0:
+              print("Outside window. Skipping.")
+              raise SystemExit(0)
+
+          # Probability to commit this slot, with gentle randomization
+          p = target / total_slots
+          # bias a touch toward middle of day
+          hour_bias = 1.0 + 0.2 * (1.0 - abs(14 - now.hour)/5.0)  # peaks ~2pm
+          p = min(0.95, max(0.0, p * random.uniform(0.8, 1.2) * hour_bias))
+
+          roll = random.random()
+          print(f"Target/day={target} p={p:.3f} roll={roll:.3f}")
+          if roll > p:
+              print("No commit this slot.")
+              raise SystemExit(0)
+
+          # Prepare message
+          messages = [m.strip() for m in os.environ.get("MESSAGES","").splitlines() if m.strip()]
+          msg_core = random.choice(messages) if messages else "scheduled update"
+          stamp = now.strftime("%Y-%m-%d %H:%M:%S %Z")
+          line = f"- {stamp} — {msg_core}\n"
+
+          # Ensure file exists
+          file_path = os.environ.get("FILE_PATH", "logs/heartbeat.md")
+          path = pathlib.Path(file_path)
+          path.parent.mkdir(parents=True, exist_ok=True)
+          if not path.exists():
+              path.write_text("# Commit Machine Heartbeat\n\n")
+
+          with path.open("a") as f:
+              f.write(line)
+
+          # Git config & commit
+          subprocess.check_call(["git", "config", "user.name", os.environ.get("GITHUB_ACTOR","commit-bot")])
+          subprocess.check_call(["git", "config", "user.email", f"{os.environ.get('GITHUB_ACTOR','bot')}@users.noreply.github.com"])
+
+          subprocess.check_call(["git", "add", file_path])
+          commit_msg = f"ci: heartbeat — {msg_core}"
+          subprocess.check_call(["git", "commit", "-m", commit_msg])
+
+          # Push
+          branch = os.environ.get("TARGET_BRANCH","main")
+          subprocess.check_call(["git", "push", "origin", branch])
+          PY
