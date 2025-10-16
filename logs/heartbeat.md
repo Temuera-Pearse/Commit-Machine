@@ -17,3 +17,4 @@
 - 2025-10-16 12:24:52 NZDT — jotting ideas
 - 2025-10-16 16:07:55 NZDT — ci: scheduled nibble
 - 2025-10-17 10:09:19 NZDT — meta: planning next steps
+- 2025-10-17 10:32:07 NZDT — polishing edges
