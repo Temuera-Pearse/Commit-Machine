@@ -24,3 +24,4 @@
 - 2025-10-17 12:22:52 NZDT — polishing edges
 - 2025-10-20 09:10:51 NZDT — meta: planning next steps
 - 2025-10-20 10:32:25 NZDT — polishing edges
+- 2025-10-20 12:24:59 NZDT — ci: scheduled nibble
