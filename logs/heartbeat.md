@@ -22,3 +22,4 @@
 - 2025-10-17 11:07:44 NZDT — test hook
 - 2025-10-17 11:52:04 NZDT — polishing edges
 - 2025-10-17 12:22:52 NZDT — polishing edges
+- 2025-10-20 09:10:51 NZDT — meta: planning next steps
