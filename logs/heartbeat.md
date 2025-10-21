@@ -29,3 +29,4 @@
 - 2025-10-21 11:46:51 NZDT — ci: scheduled nibble
 - 2025-10-22 09:12:23 NZDT — polishing edges
 - 2025-10-22 09:46:08 NZDT — polishing edges
+- 2025-10-22 12:10:18 NZDT — test hook
