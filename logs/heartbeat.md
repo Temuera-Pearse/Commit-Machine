@@ -38,3 +38,4 @@
 - 2025-10-23 16:44:19 NZDT — docs: note to future me
 - 2025-10-24 11:51:57 NZDT — docs: note to future me
 - 2025-10-24 12:09:35 NZDT — test hook
+- 2025-10-24 12:42:02 NZDT — jotting ideas
