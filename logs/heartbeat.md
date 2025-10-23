@@ -35,3 +35,4 @@
 - 2025-10-23 12:24:07 NZDT — chore: housekeeping
 - 2025-10-23 12:32:27 NZDT — chore: housekeeping
 - 2025-10-23 14:56:07 NZDT — meta: planning next steps
+- 2025-10-23 16:44:19 NZDT — docs: note to future me
