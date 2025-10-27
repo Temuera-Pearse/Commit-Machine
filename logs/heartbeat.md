@@ -44,3 +44,4 @@
 - 2025-10-27 09:31:57 NZDT — meta: planning next steps
 - 2025-10-27 12:09:13 NZDT — meta: planning next steps
 - 2025-10-27 12:51:55 NZDT — test hook
+- 2025-10-27 16:35:08 NZDT — tiny refactor note
