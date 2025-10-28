@@ -50,3 +50,4 @@
 - 2025-10-29 10:26:53 NZDT — meta: planning next steps
 - 2025-10-29 10:43:49 NZDT — docs: note to future me
 - 2025-10-29 12:09:42 NZDT — tiny refactor note
+- 2025-10-29 12:27:01 NZDT — ci: scheduled nibble
