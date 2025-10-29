@@ -51,3 +51,4 @@
 - 2025-10-29 10:43:49 NZDT — docs: note to future me
 - 2025-10-29 12:09:42 NZDT — tiny refactor note
 - 2025-10-29 12:27:01 NZDT — ci: scheduled nibble
+- 2025-10-30 10:27:03 NZDT — tiny refactor note
