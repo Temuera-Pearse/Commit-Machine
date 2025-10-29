@@ -54,3 +54,4 @@
 - 2025-10-30 10:27:03 NZDT — tiny refactor note
 - 2025-10-30 11:10:26 NZDT — tiny refactor note
 - 2025-10-30 11:33:19 NZDT — tiny refactor note
+- 2025-10-30 12:38:55 NZDT — docs: note to future me
