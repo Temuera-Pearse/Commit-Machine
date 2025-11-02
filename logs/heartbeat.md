@@ -62,3 +62,4 @@
 - 2025-10-31 12:51:55 NZDT — docs: note to future me
 - 2025-10-31 16:16:46 NZDT — meta: planning next steps
 - 2025-10-31 16:52:27 NZDT — ci: scheduled nibble
+- 2025-11-03 09:30:22 NZDT — jotting ideas
