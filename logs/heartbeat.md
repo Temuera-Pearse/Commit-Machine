@@ -75,3 +75,4 @@
 - 2025-11-05 11:51:59 NZDT — test hook
 - 2025-11-06 09:12:41 NZDT — chore: housekeeping
 - 2025-11-07 10:27:01 NZDT — chore: housekeeping
+- 2025-11-07 11:33:05 NZDT — meta: planning next steps
