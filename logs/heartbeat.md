@@ -79,3 +79,4 @@
 - 2025-11-07 12:10:19 NZDT — test hook
 - 2025-11-07 12:44:12 NZDT — polishing edges
 - 2025-11-10 09:30:47 NZDT — ci: scheduled nibble
+- 2025-11-10 16:34:09 NZDT — chore: housekeeping
