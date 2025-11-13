@@ -91,3 +91,4 @@
 - 2025-11-13 11:32:08 NZDT — chore: housekeeping
 - 2025-11-13 12:39:58 NZDT — meta: planning next steps
 - 2025-11-14 09:12:43 NZDT — tiny refactor note
+- 2025-11-14 09:34:55 NZDT — jotting ideas
