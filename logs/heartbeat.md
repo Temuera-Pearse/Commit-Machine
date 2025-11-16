@@ -93,3 +93,4 @@
 - 2025-11-14 09:12:43 NZDT — tiny refactor note
 - 2025-11-14 09:34:55 NZDT — jotting ideas
 - 2025-11-17 09:51:49 NZDT — polishing edges
+- 2025-11-17 10:51:54 NZDT — docs: note to future me
