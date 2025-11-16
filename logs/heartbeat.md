@@ -94,3 +94,4 @@
 - 2025-11-14 09:34:55 NZDT — jotting ideas
 - 2025-11-17 09:51:49 NZDT — polishing edges
 - 2025-11-17 10:51:54 NZDT — docs: note to future me
+- 2025-11-17 12:09:40 NZDT — meta: planning next steps
