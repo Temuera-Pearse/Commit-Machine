@@ -97,3 +97,4 @@
 - 2025-11-17 12:09:40 NZDT — meta: planning next steps
 - 2025-11-17 12:36:03 NZDT — test hook
 - 2025-11-18 09:33:13 NZDT — polishing edges
+- 2025-11-18 09:43:34 NZDT — ci: scheduled nibble
