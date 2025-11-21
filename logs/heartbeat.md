@@ -111,3 +111,4 @@
 - 2025-11-21 12:29:47 NZDT — ci: scheduled nibble
 - 2025-11-21 12:52:01 NZDT — polishing edges
 - 2025-11-21 15:00:26 NZDT — chore: housekeeping
+- 2025-11-21 16:52:06 NZDT — chore: housekeeping
