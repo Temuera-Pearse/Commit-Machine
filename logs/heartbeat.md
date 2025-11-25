@@ -118,3 +118,4 @@
 - 2025-11-26 09:54:06 NZDT — ci: scheduled nibble
 - 2025-11-26 10:10:16 NZDT — chore: housekeeping
 - 2025-11-26 10:51:54 NZDT — meta: planning next steps
+- 2025-11-26 11:45:50 NZDT — tiny refactor note
