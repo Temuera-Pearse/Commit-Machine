@@ -117,3 +117,4 @@
 - 2025-11-25 15:02:40 NZDT — chore: housekeeping
 - 2025-11-26 09:54:06 NZDT — ci: scheduled nibble
 - 2025-11-26 10:10:16 NZDT — chore: housekeeping
+- 2025-11-26 10:51:54 NZDT — meta: planning next steps
