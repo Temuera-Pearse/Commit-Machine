@@ -126,3 +126,4 @@
 - 2025-11-27 16:19:07 NZDT — docs: note to future me
 - 2025-11-28 11:10:11 NZDT — ci: scheduled nibble
 - 2025-11-28 12:10:00 NZDT — chore: housekeeping
+- 2025-11-28 12:51:55 NZDT — meta: planning next steps
