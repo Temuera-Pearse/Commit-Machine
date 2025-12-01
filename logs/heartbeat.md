@@ -131,3 +131,4 @@
 - 2025-12-02 09:32:14 NZDT — docs: note to future me
 - 2025-12-02 10:42:09 NZDT — meta: planning next steps
 - 2025-12-02 12:10:23 NZDT — polishing edges
+- 2025-12-02 12:51:52 NZDT — meta: planning next steps
