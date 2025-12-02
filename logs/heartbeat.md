@@ -136,3 +136,4 @@
 - 2025-12-03 10:53:04 NZDT — docs: note to future me
 - 2025-12-03 11:51:51 NZDT — jotting ideas
 - 2025-12-03 12:30:26 NZDT — meta: planning next steps
+- 2025-12-03 12:43:30 NZDT — docs: note to future me
