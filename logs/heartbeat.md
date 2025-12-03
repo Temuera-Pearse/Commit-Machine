@@ -140,3 +140,4 @@
 - 2025-12-03 15:04:40 NZDT — test hook
 - 2025-12-03 16:33:23 NZDT — meta: planning next steps
 - 2025-12-04 10:37:36 NZDT — tiny refactor note
+- 2025-12-04 12:08:59 NZDT — docs: note to future me
