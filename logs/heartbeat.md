@@ -156,3 +156,4 @@
 - 2025-12-11 12:09:25 NZDT — chore: housekeeping
 - 2025-12-11 12:27:44 NZDT — docs: note to future me
 - 2025-12-12 11:36:31 NZDT — meta: planning next steps
+- 2025-12-12 11:48:01 NZDT — jotting ideas
