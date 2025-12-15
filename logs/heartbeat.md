@@ -164,3 +164,4 @@
 - 2025-12-15 11:51:56 NZDT — test hook
 - 2025-12-15 12:10:06 NZDT — meta: planning next steps
 - 2025-12-15 12:39:59 NZDT — chore: housekeeping
+- 2025-12-16 09:12:47 NZDT — ci: scheduled nibble
