@@ -168,3 +168,4 @@
 - 2025-12-16 15:09:50 NZDT — docs: note to future me
 - 2025-12-17 10:32:42 NZDT — chore: housekeeping
 - 2025-12-17 12:31:55 NZDT — ci: scheduled nibble
+- 2025-12-18 12:31:30 NZDT — docs: note to future me
