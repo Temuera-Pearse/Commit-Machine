@@ -176,3 +176,4 @@
 - 2025-12-22 10:27:28 NZDT — test hook
 - 2025-12-23 10:31:01 NZDT — polishing edges
 - 2025-12-23 10:44:18 NZDT — chore: housekeeping
+- 2025-12-23 11:36:08 NZDT — docs: note to future me
