@@ -182,3 +182,4 @@
 - 2025-12-23 12:42:55 NZDT — docs: note to future me
 - 2025-12-23 15:55:30 NZDT — chore: housekeeping
 - 2025-12-24 09:02:04 NZDT — meta: planning next steps
+- 2025-12-24 09:38:54 NZDT — tiny refactor note
