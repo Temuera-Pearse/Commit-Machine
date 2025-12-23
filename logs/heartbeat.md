@@ -184,3 +184,4 @@
 - 2025-12-24 09:02:04 NZDT — meta: planning next steps
 - 2025-12-24 09:38:54 NZDT — tiny refactor note
 - 2025-12-24 10:26:53 NZDT — meta: planning next steps
+- 2025-12-24 10:50:47 NZDT — tiny refactor note
