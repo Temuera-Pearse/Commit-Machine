@@ -180,3 +180,4 @@
 - 2025-12-23 12:11:11 NZDT — tiny refactor note
 - 2025-12-23 12:31:32 NZDT — chore: housekeeping
 - 2025-12-23 12:42:55 NZDT — docs: note to future me
+- 2025-12-23 15:55:30 NZDT — chore: housekeeping
