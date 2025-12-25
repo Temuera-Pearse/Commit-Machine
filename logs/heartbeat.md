@@ -192,3 +192,4 @@
 - 2025-12-25 16:53:02 NZDT — test hook
 - 2025-12-26 09:39:25 NZDT — ci: scheduled nibble
 - 2025-12-26 10:01:48 NZDT — test hook
+- 2025-12-26 10:14:54 NZDT — tiny refactor note
