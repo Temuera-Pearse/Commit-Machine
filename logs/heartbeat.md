@@ -199,3 +199,4 @@
 - 2025-12-29 10:01:58 NZDT — chore: housekeeping
 - 2025-12-29 12:02:12 NZDT — polishing edges
 - 2025-12-29 12:43:14 NZDT — ci: scheduled nibble
+- 2025-12-29 12:51:24 NZDT — docs: note to future me
