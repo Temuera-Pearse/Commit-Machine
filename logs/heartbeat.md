@@ -203,3 +203,4 @@
 - 2025-12-29 14:12:40 NZDT — ci: scheduled nibble
 - 2025-12-30 10:34:45 NZDT — ci: scheduled nibble
 - 2025-12-30 10:43:21 NZDT — docs: note to future me
+- 2025-12-30 11:27:52 NZDT — polishing edges
