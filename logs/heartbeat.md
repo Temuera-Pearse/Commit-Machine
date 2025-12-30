@@ -208,3 +208,4 @@
 - 2025-12-30 11:52:56 NZDT — tiny refactor note
 - 2025-12-30 12:27:08 NZDT — tiny refactor note
 - 2025-12-30 14:07:02 NZDT — jotting ideas
+- 2025-12-30 16:20:45 NZDT — docs: note to future me
