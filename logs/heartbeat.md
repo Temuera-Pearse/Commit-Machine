@@ -212,3 +212,4 @@
 - 2025-12-30 16:53:52 NZDT — chore: housekeeping
 - 2025-12-31 11:53:11 NZDT — meta: planning next steps
 - 2025-12-31 12:34:57 NZDT — docs: note to future me
+- 2025-12-31 14:08:02 NZDT — test hook
