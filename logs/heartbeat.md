@@ -223,3 +223,4 @@
 - 2026-01-02 12:02:17 NZDT — polishing edges
 - 2026-01-02 13:37:04 NZDT — tiny refactor note
 - 2026-01-05 09:02:20 NZDT — ci: scheduled nibble
+- 2026-01-05 09:15:25 NZDT — docs: note to future me
