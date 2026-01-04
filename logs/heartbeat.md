@@ -225,3 +225,4 @@
 - 2026-01-05 09:02:20 NZDT — ci: scheduled nibble
 - 2026-01-05 09:15:25 NZDT — docs: note to future me
 - 2026-01-05 10:01:57 NZDT — ci: scheduled nibble
+- 2026-01-05 10:34:53 NZDT — jotting ideas
