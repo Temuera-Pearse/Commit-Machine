@@ -227,3 +227,4 @@
 - 2026-01-05 10:01:57 NZDT — ci: scheduled nibble
 - 2026-01-05 10:34:53 NZDT — jotting ideas
 - 2026-01-05 10:42:38 NZDT — ci: scheduled nibble
+- 2026-01-05 11:15:12 NZDT — test hook
