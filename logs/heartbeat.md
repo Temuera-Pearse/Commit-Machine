@@ -230,3 +230,4 @@
 - 2026-01-05 11:15:12 NZDT — test hook
 - 2026-01-05 11:53:00 NZDT — ci: scheduled nibble
 - 2026-01-05 16:10:04 NZDT — jotting ideas
+- 2026-01-06 09:53:24 NZDT — chore: housekeeping
