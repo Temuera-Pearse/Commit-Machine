@@ -240,3 +240,4 @@
 - 2026-01-07 11:02:14 NZDT — tiny refactor note
 - 2026-01-07 11:53:04 NZDT — test hook
 - 2026-01-07 12:28:06 NZDT — chore: housekeeping
+- 2026-01-07 12:44:30 NZDT — ci: scheduled nibble
