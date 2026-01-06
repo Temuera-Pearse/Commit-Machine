@@ -234,3 +234,4 @@
 - 2026-01-06 10:52:18 NZDT — meta: planning next steps
 - 2026-01-06 11:15:11 NZDT — jotting ideas
 - 2026-01-06 11:28:00 NZDT — tiny refactor note
+- 2026-01-06 16:54:18 NZDT — chore: housekeeping
