@@ -268,3 +268,4 @@
 - 2026-01-14 13:38:40 NZDT — docs: note to future me
 - 2026-01-14 15:03:32 NZDT — polishing edges
 - 2026-01-14 15:55:22 NZDT — meta: planning next steps
+- 2026-01-15 09:38:59 NZDT — jotting ideas
