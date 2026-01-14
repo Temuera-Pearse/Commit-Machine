@@ -267,3 +267,4 @@
 - 2026-01-14 11:53:21 NZDT — ci: scheduled nibble
 - 2026-01-14 13:38:40 NZDT — docs: note to future me
 - 2026-01-14 15:03:32 NZDT — polishing edges
+- 2026-01-14 15:55:22 NZDT — meta: planning next steps
