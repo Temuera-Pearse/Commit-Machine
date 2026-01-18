@@ -284,3 +284,4 @@
 - 2026-01-16 14:55:40 NZDT — docs: note to future me
 - 2026-01-16 16:25:17 NZDT — docs: note to future me
 - 2026-01-19 09:15:22 NZDT — docs: note to future me
+- 2026-01-19 09:47:07 NZDT — ci: scheduled nibble
