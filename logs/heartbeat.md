@@ -297,3 +297,4 @@
 - 2026-01-21 16:38:26 NZDT — polishing edges
 - 2026-01-22 10:31:42 NZDT — docs: note to future me
 - 2026-01-22 11:30:05 NZDT — polishing edges
+- 2026-01-22 12:16:13 NZDT — jotting ideas
