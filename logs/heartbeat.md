@@ -299,3 +299,4 @@
 - 2026-01-22 11:30:05 NZDT — polishing edges
 - 2026-01-22 12:16:13 NZDT — jotting ideas
 - 2026-01-22 12:29:40 NZDT — chore: housekeeping
+- 2026-01-22 15:55:21 NZDT — docs: note to future me
