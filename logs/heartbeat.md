@@ -302,3 +302,4 @@
 - 2026-01-22 15:55:21 NZDT — docs: note to future me
 - 2026-01-23 12:28:47 NZDT — tiny refactor note
 - 2026-01-23 12:53:17 NZDT — jotting ideas
+- 2026-01-26 10:02:22 NZDT — jotting ideas
