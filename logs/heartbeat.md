@@ -311,3 +311,4 @@
 - 2026-01-28 09:15:33 NZDT — test hook
 - 2026-01-28 09:29:11 NZDT — docs: note to future me
 - 2026-01-28 11:02:11 NZDT — ci: scheduled nibble
+- 2026-01-28 12:47:31 NZDT — ci: scheduled nibble
