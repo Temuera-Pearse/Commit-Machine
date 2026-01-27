@@ -309,3 +309,4 @@
 - 2026-01-27 11:02:12 NZDT — tiny refactor note
 - 2026-01-27 13:39:36 NZDT — tiny refactor note
 - 2026-01-28 09:15:33 NZDT — test hook
+- 2026-01-28 09:29:11 NZDT — docs: note to future me
