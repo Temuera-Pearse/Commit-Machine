@@ -313,3 +313,4 @@
 - 2026-01-28 11:02:11 NZDT — ci: scheduled nibble
 - 2026-01-28 12:47:31 NZDT — ci: scheduled nibble
 - 2026-01-28 13:37:42 NZDT — test hook
+- 2026-01-28 14:55:08 NZDT — meta: planning next steps
