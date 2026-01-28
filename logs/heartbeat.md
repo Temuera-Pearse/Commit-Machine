@@ -315,3 +315,4 @@
 - 2026-01-28 13:37:42 NZDT — test hook
 - 2026-01-28 14:55:08 NZDT — meta: planning next steps
 - 2026-01-28 16:38:30 NZDT — jotting ideas
+- 2026-01-29 09:31:26 NZDT — chore: housekeeping
