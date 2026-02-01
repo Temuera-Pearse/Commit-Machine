@@ -324,3 +324,4 @@
 - 2026-02-02 09:42:59 NZDT — ci: scheduled nibble
 - 2026-02-02 10:29:47 NZDT — chore: housekeeping
 - 2026-02-02 11:43:22 NZDT — tiny refactor note
+- 2026-02-02 12:03:56 NZDT — chore: housekeeping
