@@ -328,3 +328,4 @@
 - 2026-02-02 12:41:40 NZDT — ci: scheduled nibble
 - 2026-02-02 12:54:23 NZDT — meta: planning next steps
 - 2026-02-05 16:25:03 NZDT — ci: scheduled nibble
+- 2026-02-06 11:10:44 NZDT — polishing edges
