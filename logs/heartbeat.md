@@ -333,3 +333,4 @@
 - 2026-02-06 11:57:53 NZDT — polishing edges
 - 2026-02-06 16:24:01 NZDT — chore: housekeeping
 - 2026-02-09 09:30:33 NZDT — docs: note to future me
+- 2026-02-09 09:47:06 NZDT — ci: scheduled nibble
