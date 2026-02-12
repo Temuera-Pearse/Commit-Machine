@@ -341,3 +341,4 @@
 - 2026-02-11 10:34:05 NZDT — tiny refactor note
 - 2026-02-11 12:53:26 NZDT — ci: scheduled nibble
 - 2026-02-12 12:00:21 NZDT — docs: note to future me
+- 2026-02-12 13:45:28 NZDT — tiny refactor note
