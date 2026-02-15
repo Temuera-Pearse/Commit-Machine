@@ -347,3 +347,4 @@
 - 2026-02-13 12:31:18 NZDT — tiny refactor note
 - 2026-02-13 12:58:28 NZDT — meta: planning next steps
 - 2026-02-16 10:03:49 NZDT — polishing edges
+- 2026-02-16 12:16:02 NZDT — jotting ideas
