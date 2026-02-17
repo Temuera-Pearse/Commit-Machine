@@ -354,3 +354,4 @@
 - 2026-02-17 11:04:31 NZDT — jotting ideas
 - 2026-02-17 12:16:34 NZDT — test hook
 - 2026-02-18 12:12:25 NZDT — meta: planning next steps
+- 2026-02-18 12:44:00 NZDT — tiny refactor note
