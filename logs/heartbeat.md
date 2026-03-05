@@ -374,3 +374,4 @@
 - 2026-03-02 15:44:15 NZDT — docs: note to future me
 - 2026-03-03 12:59:34 NZDT — docs: note to future me
 - 2026-03-03 15:47:06 NZDT — meta: planning next steps
+- 2026-03-05 15:42:42 NZDT — meta: planning next steps
