@@ -379,3 +379,4 @@
 - 2026-03-09 10:39:58 NZDT — polishing edges
 - 2026-03-09 10:48:59 NZDT — tiny refactor note
 - 2026-03-09 15:47:52 NZDT — jotting ideas
+- 2026-03-10 11:57:00 NZDT — docs: note to future me
