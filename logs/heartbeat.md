@@ -387,3 +387,4 @@
 - 2026-03-12 11:42:09 NZDT — ci: scheduled nibble
 - 2026-03-12 12:03:03 NZDT — chore: housekeeping
 - 2026-03-13 09:05:40 NZDT — docs: note to future me
+- 2026-03-13 09:51:30 NZDT — polishing edges
