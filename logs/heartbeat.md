@@ -402,3 +402,4 @@
 - 2026-03-19 10:20:31 NZDT — chore: housekeeping
 - 2026-03-19 16:31:11 NZDT — docs: note to future me
 - 2026-03-20 10:00:33 NZDT — meta: planning next steps
+- 2026-03-20 10:56:53 NZDT — docs: note to future me
