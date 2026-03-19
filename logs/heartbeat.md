@@ -405,3 +405,4 @@
 - 2026-03-20 10:56:53 NZDT — docs: note to future me
 - 2026-03-20 11:49:26 NZDT — test hook
 - 2026-03-20 11:59:59 NZDT — meta: planning next steps
+- 2026-03-20 12:29:02 NZDT — chore: housekeeping
