@@ -419,3 +419,4 @@
 - 2026-03-25 11:29:45 NZDT — polishing edges
 - 2026-03-25 16:24:25 NZDT — docs: note to future me
 - 2026-03-26 10:00:05 NZDT — polishing edges
+- 2026-03-26 11:07:52 NZDT — ci: scheduled nibble
