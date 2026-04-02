@@ -433,3 +433,4 @@
 - 2026-04-01 10:01:14 NZDT — docs: note to future me
 - 2026-04-01 11:00:16 NZDT — meta: planning next steps
 - 2026-04-03 09:43:00 NZDT — polishing edges
+- 2026-04-03 10:34:25 NZDT — test hook
