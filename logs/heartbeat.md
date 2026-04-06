@@ -439,3 +439,4 @@
 - 2026-04-03 16:33:43 NZDT — docs: note to future me
 - 2026-04-06 09:33:33 NZST — ci: scheduled nibble
 - 2026-04-06 11:18:22 NZST — docs: note to future me
+- 2026-04-06 14:48:19 NZST — meta: planning next steps
