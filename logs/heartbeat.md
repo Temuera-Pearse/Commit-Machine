@@ -442,3 +442,4 @@
 - 2026-04-06 14:48:19 NZST — meta: planning next steps
 - 2026-04-06 15:54:54 NZST — docs: note to future me
 - 2026-04-07 14:48:13 NZST — docs: note to future me
+- 2026-04-08 09:26:58 NZST — jotting ideas
