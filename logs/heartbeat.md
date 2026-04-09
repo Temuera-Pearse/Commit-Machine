@@ -447,3 +447,4 @@
 - 2026-04-08 10:21:38 NZST — docs: note to future me
 - 2026-04-08 11:43:03 NZST — test hook
 - 2026-04-08 12:00:02 NZST — docs: note to future me
+- 2026-04-09 13:20:32 NZST — polishing edges
