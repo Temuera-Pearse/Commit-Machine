@@ -450,3 +450,4 @@
 - 2026-04-09 13:20:32 NZST — polishing edges
 - 2026-04-09 16:33:49 NZST — tiny refactor note
 - 2026-04-10 12:51:20 NZST — polishing edges
+- 2026-04-10 15:55:32 NZST — chore: housekeeping
