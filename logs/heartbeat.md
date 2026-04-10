@@ -449,3 +449,4 @@
 - 2026-04-08 12:00:02 NZST — docs: note to future me
 - 2026-04-09 13:20:32 NZST — polishing edges
 - 2026-04-09 16:33:49 NZST — tiny refactor note
+- 2026-04-10 12:51:20 NZST — polishing edges
