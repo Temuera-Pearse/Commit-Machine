@@ -452,3 +452,4 @@
 - 2026-04-10 12:51:20 NZST — polishing edges
 - 2026-04-10 15:55:32 NZST — chore: housekeeping
 - 2026-04-13 10:59:40 NZST — polishing edges
+- 2026-04-15 09:35:03 NZST — docs: note to future me
