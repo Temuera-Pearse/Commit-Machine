@@ -456,3 +456,4 @@
 - 2026-04-15 10:25:02 NZST — test hook
 - 2026-04-20 12:04:49 NZST — test hook
 - 2026-04-20 15:38:13 NZST — meta: planning next steps
+- 2026-04-21 10:58:37 NZST — docs: note to future me
