@@ -460,3 +460,4 @@
 - 2026-04-23 10:26:52 NZST — meta: planning next steps
 - 2026-04-23 11:11:27 NZST — meta: planning next steps
 - 2026-04-24 09:31:27 NZST — tiny refactor note
+- 2026-04-28 11:10:30 NZST — docs: note to future me
