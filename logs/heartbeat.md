@@ -467,3 +467,4 @@
 - 2026-04-30 15:17:08 NZST — test hook
 - 2026-05-01 09:12:33 NZST — ci: scheduled nibble
 - 2026-05-01 13:06:34 NZST — tiny refactor note
+- 2026-05-01 15:16:56 NZST — polishing edges
