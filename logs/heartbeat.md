@@ -475,3 +475,4 @@
 - 2026-05-05 11:27:54 NZST — docs: note to future me
 - 2026-05-06 10:04:13 NZST — test hook
 - 2026-05-06 10:50:56 NZST — meta: planning next steps
+- 2026-05-06 13:43:18 NZST — jotting ideas
