@@ -476,3 +476,4 @@
 - 2026-05-06 10:04:13 NZST — test hook
 - 2026-05-06 10:50:56 NZST — meta: planning next steps
 - 2026-05-06 13:43:18 NZST — jotting ideas
+- 2026-05-07 11:35:46 NZST — chore: housekeeping
