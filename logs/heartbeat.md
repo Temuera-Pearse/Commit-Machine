@@ -481,3 +481,4 @@
 - 2026-05-08 13:51:06 NZST — test hook
 - 2026-05-11 16:47:23 NZST — test hook
 - 2026-05-12 09:05:00 NZST — ci: scheduled nibble
+- 2026-05-12 09:38:45 NZST — jotting ideas
