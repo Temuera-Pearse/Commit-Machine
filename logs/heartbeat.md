@@ -488,3 +488,4 @@
 - 2026-05-18 12:03:24 NZST — docs: note to future me
 - 2026-05-18 13:57:29 NZST — test hook
 - 2026-05-18 15:22:09 NZST — ci: scheduled nibble
+- 2026-05-19 09:29:38 NZST — meta: planning next steps
