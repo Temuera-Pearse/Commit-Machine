@@ -492,3 +492,4 @@
 - 2026-05-19 09:54:39 NZST — ci: scheduled nibble
 - 2026-05-20 11:42:02 NZST — meta: planning next steps
 - 2026-05-20 16:54:41 NZST — docs: note to future me
+- 2026-05-21 11:13:47 NZST — chore: housekeeping
