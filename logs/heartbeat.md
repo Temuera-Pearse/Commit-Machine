@@ -494,3 +494,4 @@
 - 2026-05-20 16:54:41 NZST — docs: note to future me
 - 2026-05-21 11:13:47 NZST — chore: housekeeping
 - 2026-05-21 15:22:39 NZST — chore: housekeeping
+- 2026-05-22 10:51:15 NZST — test hook
