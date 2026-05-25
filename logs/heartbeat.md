@@ -498,3 +498,4 @@
 - 2026-05-22 11:42:23 NZST — chore: housekeeping
 - 2026-05-25 11:03:52 NZST — meta: planning next steps
 - 2026-05-25 11:58:54 NZST — polishing edges
+- 2026-05-25 13:12:22 NZST — docs: note to future me
