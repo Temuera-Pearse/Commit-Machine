@@ -501,3 +501,4 @@
 - 2026-05-25 13:12:22 NZST — docs: note to future me
 - 2026-05-27 09:55:41 NZST — polishing edges
 - 2026-05-27 10:28:24 NZST — chore: housekeeping
+- 2026-05-28 13:50:59 NZST — jotting ideas
