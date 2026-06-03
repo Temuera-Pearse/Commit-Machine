@@ -508,3 +508,4 @@
 - 2026-06-01 13:18:37 NZST — docs: note to future me
 - 2026-06-02 14:10:22 NZST — jotting ideas
 - 2026-06-02 15:34:41 NZST — ci: scheduled nibble
+- 2026-06-04 10:52:04 NZST — jotting ideas
