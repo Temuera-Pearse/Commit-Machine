@@ -517,3 +517,4 @@
 - 2026-06-09 13:55:58 NZST — jotting ideas
 - 2026-06-10 12:06:19 NZST — jotting ideas
 - 2026-06-11 09:34:37 NZST — jotting ideas
+- 2026-06-11 14:08:03 NZST — docs: note to future me
