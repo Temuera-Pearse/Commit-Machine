@@ -523,3 +523,4 @@
 - 2026-06-16 09:57:29 NZST — docs: note to future me
 - 2026-06-17 09:56:24 NZST — tiny refactor note
 - 2026-06-18 10:48:27 NZST — polishing edges
+- 2026-06-18 13:17:57 NZST — ci: scheduled nibble
