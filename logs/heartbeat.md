@@ -528,3 +528,4 @@
 - 2026-06-19 10:23:31 NZST — test hook
 - 2026-06-19 11:44:54 NZST — meta: planning next steps
 - 2026-06-19 13:24:05 NZST — ci: scheduled nibble
+- 2026-06-22 11:39:45 NZST — meta: planning next steps
