@@ -529,3 +529,4 @@
 - 2026-06-19 11:44:54 NZST — meta: planning next steps
 - 2026-06-19 13:24:05 NZST — ci: scheduled nibble
 - 2026-06-22 11:39:45 NZST — meta: planning next steps
+- 2026-06-23 12:02:09 NZST — ci: scheduled nibble
