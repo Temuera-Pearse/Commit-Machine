@@ -532,3 +532,4 @@
 - 2026-06-23 12:02:09 NZST — ci: scheduled nibble
 - 2026-06-24 09:16:53 NZST — ci: scheduled nibble
 - 2026-06-24 11:45:47 NZST — ci: scheduled nibble
+- 2026-06-24 12:09:04 NZST — tiny refactor note
