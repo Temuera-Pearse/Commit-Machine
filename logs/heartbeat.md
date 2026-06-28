@@ -537,3 +537,4 @@
 - 2026-06-25 15:19:49 NZST — test hook
 - 2026-06-26 09:14:27 NZST — test hook
 - 2026-06-26 11:36:18 NZST — jotting ideas
+- 2026-06-29 10:10:45 NZST — tiny refactor note
