@@ -540,3 +540,4 @@
 - 2026-06-29 10:10:45 NZST — tiny refactor note
 - 2026-06-29 15:24:23 NZST — ci: scheduled nibble
 - 2026-06-30 09:10:41 NZST — tiny refactor note
+- 2026-06-30 11:59:27 NZST — meta: planning next steps
