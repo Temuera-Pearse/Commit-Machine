@@ -545,3 +545,4 @@
 - 2026-07-01 12:13:52 NZST — chore: housekeeping
 - 2026-07-01 14:06:31 NZST — test hook
 - 2026-07-02 09:45:01 NZST — jotting ideas
+- 2026-07-02 10:44:52 NZST — tiny refactor note
