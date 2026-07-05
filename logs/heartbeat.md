@@ -550,3 +550,4 @@
 - 2026-07-03 13:40:15 NZST — polishing edges
 - 2026-07-03 16:13:03 NZST — meta: planning next steps
 - 2026-07-06 09:12:28 NZST — docs: note to future me
+- 2026-07-06 10:03:02 NZST — tiny refactor note
