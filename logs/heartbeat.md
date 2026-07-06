@@ -552,3 +552,4 @@
 - 2026-07-06 09:12:28 NZST — docs: note to future me
 - 2026-07-06 10:03:02 NZST — tiny refactor note
 - 2026-07-06 11:48:21 NZST — meta: planning next steps
+- 2026-07-06 16:22:22 NZST — chore: housekeeping
