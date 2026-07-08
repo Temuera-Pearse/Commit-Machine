@@ -556,3 +556,4 @@
 - 2026-07-08 09:41:38 NZST — polishing edges
 - 2026-07-08 13:26:10 NZST — meta: planning next steps
 - 2026-07-08 14:21:13 NZST — test hook
+- 2026-07-09 09:17:48 NZST — tiny refactor note
