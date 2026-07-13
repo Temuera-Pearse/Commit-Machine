@@ -560,3 +560,4 @@
 - 2026-07-09 12:00:24 NZST — test hook
 - 2026-07-10 11:13:11 NZST — ci: scheduled nibble
 - 2026-07-10 12:52:48 NZST — chore: housekeeping
+- 2026-07-13 12:50:41 NZST — tiny refactor note
