@@ -561,3 +561,4 @@
 - 2026-07-10 11:13:11 NZST — ci: scheduled nibble
 - 2026-07-10 12:52:48 NZST — chore: housekeeping
 - 2026-07-13 12:50:41 NZST — tiny refactor note
+- 2026-07-13 13:41:15 NZST — tiny refactor note
