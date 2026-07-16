@@ -570,3 +570,4 @@
 - 2026-07-15 15:32:59 NZST — test hook
 - 2026-07-16 10:28:45 NZST — ci: scheduled nibble
 - 2026-07-16 10:50:37 NZST — docs: note to future me
+- 2026-07-17 10:13:18 NZST — test hook
