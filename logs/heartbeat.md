@@ -572,3 +572,4 @@
 - 2026-07-16 10:50:37 NZST — docs: note to future me
 - 2026-07-17 10:13:18 NZST — test hook
 - 2026-07-17 12:11:54 NZST — tiny refactor note
+- 2026-07-17 16:45:24 NZST — polishing edges
