@@ -577,3 +577,4 @@
 - 2026-07-21 11:29:09 NZST — meta: planning next steps
 - 2026-07-21 11:51:01 NZST — polishing edges
 - 2026-07-21 12:48:00 NZST — polishing edges
+- 2026-07-24 11:32:27 NZST — chore: housekeeping
