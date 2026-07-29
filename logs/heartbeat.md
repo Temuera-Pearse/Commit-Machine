@@ -582,3 +582,4 @@
 - 2026-07-28 11:19:18 NZST — test hook
 - 2026-07-29 09:57:20 NZST — chore: housekeeping
 - 2026-07-29 11:49:13 NZST — docs: note to future me
+- 2026-07-30 09:38:17 NZST — jotting ideas
