@@ -583,3 +583,4 @@
 - 2026-07-29 09:57:20 NZST — chore: housekeeping
 - 2026-07-29 11:49:13 NZST — docs: note to future me
 - 2026-07-30 09:38:17 NZST — jotting ideas
+- 2026-07-31 11:00:35 NZST — tiny refactor note
