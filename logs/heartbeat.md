@@ -590,3 +590,4 @@
 - 2026-08-05 15:16:23 NZST — test hook
 - 2026-08-06 15:19:04 NZST — chore: housekeeping
 - 2026-08-10 11:19:00 NZST — ci: scheduled nibble
+- 2026-08-10 11:50:39 NZST — test hook
