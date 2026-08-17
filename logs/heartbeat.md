@@ -598,3 +598,4 @@
 - 2026-08-17 10:57:46 NZST — meta: planning next steps
 - 2026-08-18 09:53:32 NZST — docs: note to future me
 - 2026-08-18 10:12:05 NZST — jotting ideas
+- 2026-08-18 11:00:07 NZST — ci: scheduled nibble
