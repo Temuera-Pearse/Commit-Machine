@@ -605,3 +605,4 @@
 - 2026-08-19 09:00:35 NZST — ci: scheduled nibble
 - 2026-08-19 11:51:45 NZST — ci: scheduled nibble
 - 2026-08-20 13:39:40 NZST — ci: scheduled nibble
+- 2026-08-20 16:19:46 NZST — docs: note to future me
