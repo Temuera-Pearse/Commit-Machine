@@ -607,3 +607,4 @@
 - 2026-08-20 13:39:40 NZST — ci: scheduled nibble
 - 2026-08-20 16:19:46 NZST — docs: note to future me
 - 2026-08-21 10:58:35 NZST — docs: note to future me
+- 2026-08-21 15:54:07 NZST — chore: housekeeping
