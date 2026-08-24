@@ -611,3 +611,4 @@
 - 2026-08-24 09:35:45 NZST — meta: planning next steps
 - 2026-08-24 09:51:52 NZST — meta: planning next steps
 - 2026-08-24 13:45:42 NZST — tiny refactor note
+- 2026-08-25 11:17:07 NZST — meta: planning next steps
