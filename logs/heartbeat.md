@@ -610,3 +610,4 @@
 - 2026-08-21 15:54:07 NZST — chore: housekeeping
 - 2026-08-24 09:35:45 NZST — meta: planning next steps
 - 2026-08-24 09:51:52 NZST — meta: planning next steps
+- 2026-08-24 13:45:42 NZST — tiny refactor note
