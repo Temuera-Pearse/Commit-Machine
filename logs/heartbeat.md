@@ -620,3 +620,4 @@
 - 2026-09-10 12:06:13 NZST — jotting ideas
 - 2026-09-11 10:02:23 NZST — jotting ideas
 - 2026-09-15 12:58:47 NZST — chore: housekeeping
+- 2026-09-16 16:27:52 NZST — docs: note to future me
