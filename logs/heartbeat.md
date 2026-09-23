@@ -623,3 +623,4 @@
 - 2026-09-16 16:27:52 NZST — docs: note to future me
 - 2026-09-22 10:54:36 NZST — chore: housekeeping
 - 2026-09-23 10:29:12 NZST — meta: planning next steps
+- 2026-09-23 16:24:46 NZST — docs: note to future me
