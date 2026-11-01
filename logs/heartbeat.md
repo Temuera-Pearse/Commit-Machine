@@ -635,3 +635,4 @@
 - 2026-10-22 11:52:02 NZDT — ci: scheduled nibble
 - 2026-10-28 12:18:22 NZDT — docs: note to future me
 - 2026-10-30 12:41:27 NZDT — test hook
+- 2026-11-02 12:12:10 NZDT — jotting ideas
